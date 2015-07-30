@@ -58,6 +58,9 @@
     <Compile Include="DataContexts\AppDataContext.cs" />
     <Compile Include="DataContexts\MySqlHistoryContext.cs" />
     <Compile Include="DataContexts\MySqlInitializer.cs" />
+    <Compile Include="Mappings\AuthorMap.cs" />
+    <Compile Include="Mappings\BookMap.cs" />
+    <Compile Include="Mappings\CategoryMap.cs" />
     <Compile Include="Model\Author.cs" />
     <Compile Include="Model\Book.cs" />
     <Compile Include="Model\Category.cs" />
